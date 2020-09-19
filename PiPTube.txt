@@ -4,4 +4,4 @@
 
 m.YouTube.com##player
 m.YouTube.com##c3-material-button-button
-m.youtube.com##. c3-material-button-button
+m.youtube.com##.c3-material-button-button
