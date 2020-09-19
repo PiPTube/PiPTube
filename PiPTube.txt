@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Name: PiPTube
+! Expires:  7 days
+
+YouTube.com##player
