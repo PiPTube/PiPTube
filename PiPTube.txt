@@ -2,6 +2,4 @@
 ! Name: PiPTube
 ! Expires:  7 days
 
-m.YouTube.com##player
-m.YouTube.com##c3-material-button-button
-m.youtube.com##.c3-material-button-button
+youtube.com##.c3-material-button-button
